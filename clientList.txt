@@ -1,0 +1,9 @@
+Office_friend: kamal,kamal@gmail.com,clerk,2000/12/12
+Office_friend: kamal,kamal@gmail.com,clerk,2000/02/04
+Personal: sunil,<nick-name>,sunil@gmail.com,2000/02/04
+Personal: namal,nama,hdvidulanka@gmail.com,2020/02/04
+Office_friend: Amal,hdsvidulanka@gmail.com,Manager,1998/02/16
+Personal: Madushan,Madu,vidulankavidulanka@gmail.com,1999/02/16
+Official: Janith,janith_03@gmail.com,accountan
+Official: janith,janith_03@gmail.com,maneger
+Official: janith,janith_03@gmail.com,accountan
