@@ -1,3 +1,5 @@
+this is a project in Semester 02 CS2012 Principles of Object-Oriented Programming module which has following functionalities;
+
 🌐 Key Features:
 •	Recipient Management: Implemented the ability to add new recipients and update recipient details through command-line options. Recipient data, including official friends and personal contacts, is stored in a text file (clientList.txt).
 •	Birthday Greetings: Sent personalized birthday greetings to recipients on their special day, distinguishing between official friends and personal contacts. Utilized object-oriented principles to manage recipient objects.
